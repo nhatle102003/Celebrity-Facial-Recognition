@@ -1,8 +1,6 @@
 # Facial Recognition With Machine Learning
 
 - **Author**: Tran Minh Nhat Le
-- **Semester**: Spring 2024
-- **Course Number and Section**: CS4347 - Section 251
 
 ---
 
